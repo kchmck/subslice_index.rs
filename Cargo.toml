@@ -1,0 +1,9 @@
+[package]
+name = "subslice_index"
+version = "0.5.0"
+authors = ["Mick Koch <mick@kochm.co>"]
+description = "Get the index of a subslice into its parent slice"
+license = "MIT"
+documentation = "https://docs.rs/subslice_index"
+repository = "https://github.com/kchmck/subslice_index"
+keywords = ["slice", "subslice", "index"]
